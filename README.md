@@ -47,6 +47,30 @@ Random & String Modules (for generating random characters)
 
 __________________________________________________________________________________________________________________________________________________________________________
 
+Task 4:🪨📄✂️ Rock-Paper-Scissors Game
+🎮 About the Project
+This is a GUI-based Rock-Paper-Scissors game built using Python and FreeSimpleGUI. The game allows users to play against the computer, selecting Rock, Paper, or Scissors, and determining the winner based on classic game rules.
+
+✨ Features
+✔️ Simple & user-friendly GUI
+✔️ Randomized computer moves
+✔️ Input validation for user moves
+✔️ Displays results with popups
+✔️ Clean UI with aligned components
+
+🛠️ Technologies Used
+Python 🐍
+FreeSimpleGUI (for GUI)
+Random module (for computer moves)
+
+📜 Game Rules
+Rock beats Scissors
+Paper beats Rock
+Scissors beats Paper
+If both the user and the computer choose the same move, it's a Tie!
+
+________________________________________________________________________________________________________________________________________________________________________
+
 Task 5:📖 Contact Book GUI
 A simple and interactive Contact Book application built using Python and PySimpleGUI. This application allows users to store, view, update, and delete contacts easily.
 
