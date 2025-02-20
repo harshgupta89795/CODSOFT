@@ -27,7 +27,25 @@ A lightweight and user-friendly calculator application built using Python and Py
 Python
 PySimpleGUI (for GUI)
 
-________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________
+Task 3:🔐 Password Generator - Python GUI
+This is a secure password generator built using Python and FreeSimpleGUI. It generates strong passwords that meet essential security criteria, ensuring better protection against unauthorized access.
+
+🚀 Features
+✅ User-defined password length (minimum 8 characters)
+✅ Includes at least one uppercase letter (A-Z)
+✅ Includes at least one lowercase letter (a-z)
+✅ Includes at least one numeric digit (0-9)
+✅ Includes at least one special character (!@#$%^&*)
+✅ Randomly shuffles characters for better unpredictability
+✅ Interactive and user-friendly GUI
+
+🛠️ Tech Stack
+Python
+FreeSimpleGUI (for the graphical user interface)
+Random & String Modules (for generating random characters)
+
+__________________________________________________________________________________________________________________________________________________________________________
 
 Task 5:📖 Contact Book GUI
 A simple and interactive Contact Book application built using Python and PySimpleGUI. This application allows users to store, view, update, and delete contacts easily.
